@@ -1,0 +1,22 @@
+@media screen and (max-width: 600px) { 
+    body {
+        padding: 0 40px;
+        margin: 50px;
+    }
+
+    .container {
+        align-items: center;
+        justify-content: center;
+    }
+}
+
+@media screen and (max-width: 430px) { 
+    body {
+        padding: 10px 0;
+    }
+
+    .container {
+        align-items: center;
+        justify-content: center;
+    }
+ }
