@@ -1,4 +1,4 @@
-<h1>Página de receitas fitness</h1>
+<h1>Tela de Login</h1>
 <br>
 <h2>Sobre o projeto</h2>
 <br>
